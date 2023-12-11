@@ -1,2 +1,1 @@
-# Comptitions
-predict number of upvotes
+# Predictive Analysis
